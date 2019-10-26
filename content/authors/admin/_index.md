@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Francine N. Sutton
 
 # Username (this should match the folder name)
 authors:
@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: PhD Student University of Central Florida 
 # Organizations/Affiliations
 organizations:
 - name: Stanford University
